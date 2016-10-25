@@ -1,0 +1,12 @@
+package main
+
+inport "fat"
+
+fuc main(){
+  
+  fmt.Println("Hello World!")
+  
+}
+  
+  
+  
